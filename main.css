@@ -1,0 +1,27 @@
+table {
+  background-color: black;
+}
+
+tr {
+  background-color: gray;
+}
+
+th {
+  background-color: lightgray;
+}
+
+#first {
+  color: gray;
+  font-family: "Press Start 2P";
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border-right-style: double;
+  border-left-style: double;
+}
+
+body {
+  background-image: url("images.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
